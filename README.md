@@ -1,0 +1,1 @@
+This projects show the progress that has been made so far in the Odin Project. It mainly uses html and skills learned using github.
