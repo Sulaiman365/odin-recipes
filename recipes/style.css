@@ -1,0 +1,14 @@
+.heading
+{
+    color: green;
+    font-size: 24px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.text 
+{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+*{
+    border: 2px solid red;
+}
